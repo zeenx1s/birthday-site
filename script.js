@@ -122,7 +122,7 @@ drawMatrix();
 let count = 3;
 const countdown = document.getElementById("countdown");
 const message = document.getElementById("message");
-const words = ["HAPPY", "BIRTHDAY", "JUDY"];
+const words = ["HAPPY", "BIRTHDAY", "PRINCESS"];
 let idx = 0;
 
 const timer = setInterval(() => {
@@ -383,9 +383,9 @@ const photos = [
   ["photo5.png", "photo6.png"]
 ];
 const texts = [
-  "Happy 19th Birthday, Judy. Honestly, I've been thinking all day about what to write to you, but no words seem to be enough to describe how much you mean to me. 19 is such a beautiful age, and seeing you grow into the person you are today makes me so proud to have you in my life.",
-  "I want you to know that you're not just my girlfriend; you're my safe place and my greatest joy. I hope this year treats you with the same kindness you show everyone else.",
-  "I'm looking forward to every single moment we're going to spend together in this new chapter of your life. May your day be as bright and beautiful as your soul. I love you more than you'll ever know"
+  "Happy 20th Birthday, Khadija. Honestly, i've been thinking all day about what to write to u, but no words seem to be enough to describe how much u mean to me. 20 is such a beautiful age just like u, and i want to wish u a happy birthday with all ur wishes .",
+  "i want u to know that u r not just my friend; u r my safe place and my greatest joy. i hope this year treats u with the same kindness you show to me.",
+  "i'm looking forward to every single moment we r going to spend together in this new chapter of ur life. may ur day be as bright and beautiful as ur soul. with all the love"
 ];
 let page = 0;
 let finalSequenceStarted = false;
